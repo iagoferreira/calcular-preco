@@ -1,0 +1,161 @@
+{
+  "pesosAco": [
+    {
+      "diametro": 6.35,
+      "valor": 0.25
+    },
+    {
+      "diametro": 12.7,
+      "valor": 0.99
+    },
+    {
+      "diametro": 19.05,
+      "valor": 2.24
+    },
+    {
+      "diametro": 25.4,
+      "valor": 3.97
+    },
+    {
+      "diametro": 31.75,
+      "valor": 6.21
+    },
+    {
+      "diametro": 38.1,
+      "valor": 8.94
+    },
+    {
+      "diametro": 44.45,
+      "valor": 12.17
+    },
+    {
+      "diametro": 50.8,
+      "valor": 15.9
+    },
+    {
+      "diametro": 57.15,
+      "valor": 20.12
+    },
+    {
+      "diametro": 63.5,
+      "valor": 24.84
+    },
+    {
+      "diametro": 69.85,
+      "valor": 30.05
+    },
+    {
+      "diametro": 76.2,
+      "valor": 35.77
+    },
+    {
+      "diametro": 82.55,
+      "valor": 41.88
+    },
+    {
+      "diametro": 88.9,
+      "valor": 48.68
+    },
+    {
+      "diametro": 95.25,
+      "valor": 55.88
+    },
+    {
+      "diametro": 101.6,
+      "valor": 63.58
+    },
+    {
+      "diametro": 107.95,
+      "valor": 71.78
+    },
+    {
+      "diametro": 114.3,
+      "valor": 80.47
+    },
+
+    {
+      "diametro": 120.65,
+      "valor": 89.66
+    },
+    {
+      "diametro": 127.0,
+      "valor": 99.8
+    },
+    {
+      "diametro": 133.35,
+      "valor": 109.5
+    },
+    {
+      "diametro": 139.7,
+      "valor": 120.2
+    },
+    {
+      "diametro": 146.05,
+      "valor": 131.4
+    },
+    {
+      "diametro": 152.4,
+      "valor": 143.1
+    },
+    {
+      "diametro": 158.75,
+      "valor": 155.2
+    },
+    {
+      "diametro": 165.1,
+      "valor": 167.9
+    },
+    {
+      "diametro": 171.45,
+      "valor": 181.1
+    },
+    {
+      "diametro": 177.8,
+      "valor": 194.7
+    },
+    {
+      "diametro": 184.15,
+      "valor": 209.7
+    },
+    {
+      "diametro": 190.5,
+      "valor": 223.8
+    },
+    {
+      "diametro": 196.85,
+      "valor": 238.9
+    },
+    {
+      "diametro": 203.2,
+      "valor": 254.6
+    },
+    {
+      "diametro": 209.55,
+      "valor": 270.7
+    },
+    {
+      "diametro": 215.9,
+      "valor": 287.4
+    },
+    {
+      "diametro": 222.25,
+      "valor": 304.6
+    },
+    {
+      "diametro": 228.6,
+      "valor": 322.1
+    },
+    {
+      "diametro": 234.95,
+      "valor": 340.3
+    },
+    {
+      "diametro": 241.3,
+      "valor": 359.0
+    },
+    {
+      "diametro": 247.67,
+      "valor": 378.1
+    }
+  ]
+}

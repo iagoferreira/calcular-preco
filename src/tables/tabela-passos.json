@@ -1,0 +1,56 @@
+{
+  "passos": [
+    {
+      "passo": "XL",
+      "valor": 5.08
+    },
+    {
+      "passo": "H",
+      "valor": 12.7
+    },
+    {
+      "passo": "MXL",
+      "valor": 2.032
+    },
+    {
+      "passo": "L",
+      "valor": 9.525
+    },
+    {
+      "passo": "2M",
+      "valor": 2
+    },
+    {
+      "passo": "3M",
+      "valor": 3
+    },
+    {
+      "passo": "5M/T5/AT5",
+      "valor": 5
+    },
+    {
+      "passo": "8M",
+      "valor": 8
+    },
+    {
+      "passo": "T10/AT10",
+      "valor": 10
+    },
+    {
+      "passo": "14M",
+      "valor": 14
+    },
+    {
+      "passo": "T20/AT20",
+      "valor": 20
+    },
+    {
+      "passo": "XH",
+      "valor": 2.23
+    },
+    {
+      "passo": "XXH",
+      "valor": 31.75
+    }
+  ]
+}
