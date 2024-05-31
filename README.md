@@ -1,6 +1,6 @@
 # Calcular preco
 
-Calcular preco
+Machining parts price calculator
 
 ## Tech Stack
 
