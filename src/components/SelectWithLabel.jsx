@@ -19,7 +19,7 @@ export function SelectWithLabel(props) {
         <SelectTrigger className="w-[180px]">
           <SelectValue />
         </SelectTrigger>
-        <SelectContent>
+        <SelectContent className="bg-white">
           <SelectGroup>
             {options.map((option, index) => (
               <SelectItem value={option} key={index}>

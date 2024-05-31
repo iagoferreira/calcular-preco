@@ -39,11 +39,11 @@ export function Combobox({ value, setValue, options }) {
           </Button>
         </PopoverTrigger>
         <PopoverContent className="w-[200px] p-0">
-          <Command>
+          <Command className="bg-white">
             <CommandInput placeholder="Procure passo..." />
             <CommandEmpty>Nenhum passo encontrado.</CommandEmpty>
             <CommandGroup>
-              <CommandList>
+              <CommandList className="max-h-40">
                 {options.map((option) => (
                   <CommandItem
                     key={option}
